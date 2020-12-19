@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="in.Aios.dao.LoginDao"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="in.Aios.dao.ApplicationDao"/>
+    <fullyQualifiedTypeName name="in.Aios.model.LoginModel"/>
+    <fullyQualifiedTypeName name="in.Aios.dao.DataDao"/>
+    <fullyQualifiedTypeName name="in.Aios.model.UserData"/>
+    <fullyQualifiedTypeName name="in.Aios.model.ApplicationModel"/>
+</qualifiedTypeNameHistroy>
